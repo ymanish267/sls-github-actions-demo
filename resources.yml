@@ -50,5 +50,5 @@ cognitoUserPoolDomain:
   Type: AWS::Cognito::UserPoolDomain
   Properties:
     UserPoolId: !Ref cognitoUserPool
-    Domain: mynotescd-${self:provider.stage}
+    Domain: mynotescdproduction-${self:provider.stage}
   
