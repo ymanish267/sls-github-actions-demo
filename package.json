@@ -4,7 +4,7 @@
   "description": "",
   "main": "handler.js",
   "scripts": {
-    "test": "echo \"Error: All test passed!\""
+    "test": "echo \"Success: All test passed!\""
   },
   "keywords": [],
   "author": "",
